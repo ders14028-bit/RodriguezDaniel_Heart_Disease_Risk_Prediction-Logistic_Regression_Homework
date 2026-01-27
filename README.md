@@ -1,0 +1,2 @@
+# RodriguezDaniel_Heart_Disease_Risk_Prediction-Logistic_Regression_Homework
+Tarea 2 TDSE
